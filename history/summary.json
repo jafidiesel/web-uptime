@@ -22,18 +22,20 @@
     "url": "https://gamerconmate.com",
     "icon": "https://favicons.githubusercontent.com/gamerconmate.com",
     "slug": "gamer-con-mate",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2303,
-    "timeDay": 2303,
-    "timeWeek": 2303,
-    "timeMonth": 2303,
-    "timeYear": 2303,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3551,
+    "timeDay": 3551,
+    "timeWeek": 3551,
+    "timeMonth": 3551,
+    "timeYear": 3551,
+    "dailyMinutesDown": {
+      "2022-02-16": 0
+    }
   },
   {
     "name": "gleargentina",
