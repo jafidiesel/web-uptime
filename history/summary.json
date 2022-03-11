@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 892,
-    "timeWeek": 909,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 876,
+    "timeDay": 768,
+    "timeWeek": 918,
+    "timeMonth": 876,
+    "timeYear": 876,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "gamer-con-mate",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "98.69%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 3200,
-    "timeDay": 10117,
-    "timeWeek": 4917,
-    "timeMonth": 3200,
-    "timeYear": 3200,
+    "time": 3160,
+    "timeDay": 1905,
+    "timeWeek": 4879,
+    "timeMonth": 3160,
+    "timeYear": 3160,
     "dailyMinutesDown": {
       "2022-03-09": 19
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1259,
-    "timeDay": 1448,
-    "timeWeek": 1236,
-    "timeMonth": 1259,
-    "timeYear": 1259,
+    "time": 1260,
+    "timeDay": 1280,
+    "timeWeek": 1259,
+    "timeMonth": 1260,
+    "timeYear": 1260,
     "dailyMinutesDown": {}
   }
 ]
